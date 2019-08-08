@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(kkk.jpg);
+    background-size: cover;
+}
+form{
+    text-align: center;
+    padding: 0 auto;
+    margin-top: 10%;
+}
+    input{
+        margin: 10px;
+        padding: 5px;
+        border-radius: 30px;
+        border-color: transparent;
+        outline: none;
+    }
+    button{
+        color: white;
+        padding-left:60px;
+        padding-right: 60px;
+        padding-bottom: 3px;
+        background-color: red;
+        border-color: red;
+        margin: 15px;
+        border-radius: 20px;
+        border-color: transparent;
+        outline: none;
+    }
+    a:link{
+        text-decoration: none
+    }
+    a:hover{
+        color: darkred;
+        text-decoration: underlines;
+        font-style: italic;
+    }
+    a:active{
+        text-decoration: none;
+        font-weight: bold;
+        color:brown;
+    }
+    #hi{
+        color: mediumblue
+    }
+        
+    
+    
